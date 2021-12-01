@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steve1675
-- 👀 I’m interested in ...rural banking and finding solutions for the under/unbanked
+- 👀 I’m interested in ...Data and its effects on day to day life.. Big data,small data 
 - 🌱 I’m currently learning ...FinTech 
-- 💞️ I’m looking to collaborate on ...I am just learning and its a bit oveerwhelming. :)
+- 💞️ I’m looking to collaborate on ...I am just learning and its a bit oveerwhelming. :) But extremely exciting!
 - 📫 How to reach me ...solsen16@gmail.com
 
 <!---
